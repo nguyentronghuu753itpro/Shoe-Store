@@ -1,0 +1,274 @@
+D:\DOANCOSO1\QLCHBanGiay\QLCHBanGiay\bin\Debug\QLCHBanGiay.exe.config
+D:\DOANCOSO1\QLCHBanGiay\QLCHBanGiay\bin\Debug\QLCHBanGiay.exe
+D:\DOANCOSO1\QLCHBanGiay\QLCHBanGiay\bin\Debug\QLCHBanGiay.pdb
+D:\DOANCOSO1\QLCHBanGiay\QLCHBanGiay\obj\Debug\QLCHBanGiay.csproj.AssemblyReference.cache
+D:\DOANCOSO1\QLCHBanGiay\QLCHBanGiay\obj\Debug\QLCHBanGiay.DangNhap.resources
+D:\DOANCOSO1\QLCHBanGiay\QLCHBanGiay\obj\Debug\QLCHBanGiay.HoaDonBan.resources
+D:\DOANCOSO1\QLCHBanGiay\QLCHBanGiay\obj\Debug\QLCHBanGiay.HoaDonNhap.resources
+D:\DOANCOSO1\QLCHBanGiay\QLCHBanGiay\obj\Debug\QLCHBanGiay.KhachHang.resources
+D:\DOANCOSO1\QLCHBanGiay\QLCHBanGiay\obj\Debug\QLCHBanGiay.LoaiGiay.resources
+D:\DOANCOSO1\QLCHBanGiay\QLCHBanGiay\obj\Debug\QLCHBanGiay.NhanVien.resources
+D:\DOANCOSO1\QLCHBanGiay\QLCHBanGiay\obj\Debug\QLCHBanGiay.NhaPhanPhoi.resources
+D:\DOANCOSO1\QLCHBanGiay\QLCHBanGiay\obj\Debug\QLCHBanGiay.Properties.Resources.resources
+D:\DOANCOSO1\QLCHBanGiay\QLCHBanGiay\obj\Debug\QLCHBanGiay.SanPham.resources
+D:\DOANCOSO1\QLCHBanGiay\QLCHBanGiay\obj\Debug\QLCHBanGiay.TrangChu.resources
+D:\DOANCOSO1\QLCHBanGiay\QLCHBanGiay\obj\Debug\QLCHBanGiay.csproj.GenerateResource.cache
+D:\DOANCOSO1\QLCHBanGiay\QLCHBanGiay\obj\Debug\QLCHBanGiay.csproj.CoreCompileInputs.cache
+D:\DOANCOSO1\QLCHBanGiay\QLCHBanGiay\obj\Debug\QLCHBanGiay.exe
+D:\DOANCOSO1\QLCHBanGiay\QLCHBanGiay\obj\Debug\QLCHBanGiay.pdb
+C:\Users\Admin\Downloads\QLCHBanGiay\QLCHBanGiay\bin\Debug\QLCHBanGiay.exe.config
+C:\Users\Admin\Downloads\QLCHBanGiay\QLCHBanGiay\bin\Debug\QLCHBanGiay.exe
+C:\Users\Admin\Downloads\QLCHBanGiay\QLCHBanGiay\bin\Debug\QLCHBanGiay.pdb
+C:\Users\Admin\Downloads\QLCHBanGiay\QLCHBanGiay\obj\Debug\QLCHBanGiay.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\QLCHBanGiay\QLCHBanGiay\obj\Debug\QLCHBanGiay.DangNhap.resources
+C:\Users\Admin\Downloads\QLCHBanGiay\QLCHBanGiay\obj\Debug\QLCHBanGiay.HoaDonBan.resources
+C:\Users\Admin\Downloads\QLCHBanGiay\QLCHBanGiay\obj\Debug\QLCHBanGiay.HoaDonNhap.resources
+C:\Users\Admin\Downloads\QLCHBanGiay\QLCHBanGiay\obj\Debug\QLCHBanGiay.KhachHang.resources
+C:\Users\Admin\Downloads\QLCHBanGiay\QLCHBanGiay\obj\Debug\QLCHBanGiay.LoaiGiay.resources
+C:\Users\Admin\Downloads\QLCHBanGiay\QLCHBanGiay\obj\Debug\QLCHBanGiay.NhanVien.resources
+C:\Users\Admin\Downloads\QLCHBanGiay\QLCHBanGiay\obj\Debug\QLCHBanGiay.NhaPhanPhoi.resources
+C:\Users\Admin\Downloads\QLCHBanGiay\QLCHBanGiay\obj\Debug\QLCHBanGiay.Properties.Resources.resources
+C:\Users\Admin\Downloads\QLCHBanGiay\QLCHBanGiay\obj\Debug\QLCHBanGiay.SanPham.resources
+C:\Users\Admin\Downloads\QLCHBanGiay\QLCHBanGiay\obj\Debug\QLCHBanGiay.TrangChu.resources
+C:\Users\Admin\Downloads\QLCHBanGiay\QLCHBanGiay\obj\Debug\QLCHBanGiay.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\QLCHBanGiay\QLCHBanGiay\obj\Debug\QLCHBanGiay.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\QLCHBanGiay\QLCHBanGiay\obj\Debug\QLCHBanGiay.exe
+C:\Users\Admin\Downloads\QLCHBanGiay\QLCHBanGiay\obj\Debug\QLCHBanGiay.pdb
+C:\Users\Admin\Downloads\QLCHBanGiay\QLCHBanGiay\bin\Debug\Guna.UI2.dll
+C:\Users\Admin\Downloads\QLCHBanGiay\QLCHBanGiay\obj\Debug\QLCHBanG.017234A0.Up2Date
+D:\QLCHBanGiay\QLCHBanGiay\bin\Debug\QLCHBanGiay.exe.config
+D:\QLCHBanGiay\QLCHBanGiay\bin\Debug\QLCHBanGiay.exe
+D:\QLCHBanGiay\QLCHBanGiay\bin\Debug\QLCHBanGiay.pdb
+D:\QLCHBanGiay\QLCHBanGiay\bin\Debug\Guna.UI2.dll
+D:\QLCHBanGiay\QLCHBanGiay\obj\Debug\QLCHBanGiay.csproj.AssemblyReference.cache
+D:\QLCHBanGiay\QLCHBanGiay\obj\Debug\QLCHBanGiay.DangNhap.resources
+D:\QLCHBanGiay\QLCHBanGiay\obj\Debug\QLCHBanGiay.HoaDonBan.resources
+D:\QLCHBanGiay\QLCHBanGiay\obj\Debug\QLCHBanGiay.HoaDonNhap.resources
+D:\QLCHBanGiay\QLCHBanGiay\obj\Debug\QLCHBanGiay.KhachHang.resources
+D:\QLCHBanGiay\QLCHBanGiay\obj\Debug\QLCHBanGiay.LoaiGiay.resources
+D:\QLCHBanGiay\QLCHBanGiay\obj\Debug\QLCHBanGiay.NhanVien.resources
+D:\QLCHBanGiay\QLCHBanGiay\obj\Debug\QLCHBanGiay.NhaPhanPhoi.resources
+D:\QLCHBanGiay\QLCHBanGiay\obj\Debug\QLCHBanGiay.Properties.Resources.resources
+D:\QLCHBanGiay\QLCHBanGiay\obj\Debug\QLCHBanGiay.SanPham.resources
+D:\QLCHBanGiay\QLCHBanGiay\obj\Debug\QLCHBanGiay.TrangChu.resources
+D:\QLCHBanGiay\QLCHBanGiay\obj\Debug\QLCHBanGiay.csproj.GenerateResource.cache
+D:\QLCHBanGiay\QLCHBanGiay\obj\Debug\QLCHBanGiay.csproj.CoreCompileInputs.cache
+D:\QLCHBanGiay\QLCHBanGiay\obj\Debug\QLCHBanGiay.exe
+D:\QLCHBanGiay\QLCHBanGiay\obj\Debug\QLCHBanGiay.pdb
+D:\DOANCOSO1\QLCHBanGiay\QLCHBanGiay\bin\Debug\Guna.UI2.dll
+D:\DOANCOSO1\QLCHBanGiay\QLCHBanGiay\obj\Debug\QLCHBanGiay.csproj.CopyComplete
+D:\DOANCOSO1\QLCHBanGiay\QLCHBanGiay\obj\Debug\QLCHBanGiay.Kho.resources
+D:\DOANCOSO1\QLCHBanGiay\QLCHBanGiay\obj\Debug\QLCHBanGiay.ThongKeSP.resources
+D:\DOANCOSO1\QLCHBanGiay\QLCHBanGiay\bin\Debug\EPPlus.dll
+D:\DOANCOSO1\QLCHBanGiay\QLCHBanGiay\bin\Debug\EPPlus.Interfaces.dll
+D:\DOANCOSO1\QLCHBanGiay\QLCHBanGiay\bin\Debug\EPPlus.System.Drawing.dll
+D:\DOANCOSO1\QLCHBanGiay\QLCHBanGiay\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DOANCOSO1\QLCHBanGiay\QLCHBanGiay\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\DOANCOSO1\QLCHBanGiay\QLCHBanGiay\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\DOANCOSO1\QLCHBanGiay\QLCHBanGiay\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\DOANCOSO1\QLCHBanGiay\QLCHBanGiay\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+D:\DOANCOSO1\QLCHBanGiay\QLCHBanGiay\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\DOANCOSO1\QLCHBanGiay\QLCHBanGiay\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+D:\DOANCOSO1\QLCHBanGiay\QLCHBanGiay\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\DOANCOSO1\QLCHBanGiay\QLCHBanGiay\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\DOANCOSO1\QLCHBanGiay\QLCHBanGiay\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\DOANCOSO1\QLCHBanGiay\QLCHBanGiay\bin\Debug\System.Buffers.dll
+D:\DOANCOSO1\QLCHBanGiay\QLCHBanGiay\bin\Debug\System.ComponentModel.Annotations.dll
+D:\DOANCOSO1\QLCHBanGiay\QLCHBanGiay\bin\Debug\System.Memory.dll
+D:\DOANCOSO1\QLCHBanGiay\QLCHBanGiay\bin\Debug\System.Numerics.Vectors.dll
+D:\DOANCOSO1\QLCHBanGiay\QLCHBanGiay\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\DOANCOSO1\QLCHBanGiay\QLCHBanGiay\bin\Debug\System.Security.Cryptography.Pkcs.dll
+D:\DOANCOSO1\QLCHBanGiay\QLCHBanGiay\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\DOANCOSO1\QLCHBanGiay\QLCHBanGiay\bin\Debug\System.Text.Encodings.Web.dll
+D:\DOANCOSO1\QLCHBanGiay\QLCHBanGiay\bin\Debug\System.Text.Json.dll
+D:\DOANCOSO1\QLCHBanGiay\QLCHBanGiay\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\DOANCOSO1\QLCHBanGiay\QLCHBanGiay\bin\Debug\System.ValueTuple.dll
+D:\DOANCOSO1\QLCHBanGiay\QLCHBanGiay\bin\Debug\EPPlus.xml
+D:\DOANCOSO1\QLCHBanGiay\QLCHBanGiay\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\DOANCOSO1\QLCHBanGiay\QLCHBanGiay\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\DOANCOSO1\QLCHBanGiay\QLCHBanGiay\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\DOANCOSO1\QLCHBanGiay\QLCHBanGiay\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+D:\DOANCOSO1\QLCHBanGiay\QLCHBanGiay\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+D:\DOANCOSO1\QLCHBanGiay\QLCHBanGiay\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\DOANCOSO1\QLCHBanGiay\QLCHBanGiay\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+D:\DOANCOSO1\QLCHBanGiay\QLCHBanGiay\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\DOANCOSO1\QLCHBanGiay\QLCHBanGiay\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\DOANCOSO1\QLCHBanGiay\QLCHBanGiay\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\DOANCOSO1\QLCHBanGiay\QLCHBanGiay\bin\Debug\System.Buffers.xml
+D:\DOANCOSO1\QLCHBanGiay\QLCHBanGiay\bin\Debug\System.Memory.xml
+D:\DOANCOSO1\QLCHBanGiay\QLCHBanGiay\bin\Debug\System.Numerics.Vectors.xml
+D:\DOANCOSO1\QLCHBanGiay\QLCHBanGiay\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\DOANCOSO1\QLCHBanGiay\QLCHBanGiay\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\DOANCOSO1\QLCHBanGiay\QLCHBanGiay\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\DOANCOSO1\QLCHBanGiay\QLCHBanGiay\bin\Debug\System.Text.Encodings.Web.xml
+D:\DOANCOSO1\QLCHBanGiay\QLCHBanGiay\bin\Debug\System.Text.Json.xml
+D:\DOANCOSO1\QLCHBanGiay\QLCHBanGiay\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\DOANCOSO1\QLCHBanGiay\QLCHBanGiay\bin\Debug\System.ValueTuple.xml
+D:\DOANCOSO1\QLCHBanGiay\QLCHBanGiay\obj\Debug\QLCHBanGiay.ThongKeSPBan.resources
+C:\Users\Admin\Downloads\QLCHBanGiay\QLCHBanGiay\bin\Debug\EPPlus.dll
+C:\Users\Admin\Downloads\QLCHBanGiay\QLCHBanGiay\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\Admin\Downloads\QLCHBanGiay\QLCHBanGiay\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\Admin\Downloads\QLCHBanGiay\QLCHBanGiay\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Downloads\QLCHBanGiay\QLCHBanGiay\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Admin\Downloads\QLCHBanGiay\QLCHBanGiay\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Admin\Downloads\QLCHBanGiay\QLCHBanGiay\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Admin\Downloads\QLCHBanGiay\QLCHBanGiay\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Admin\Downloads\QLCHBanGiay\QLCHBanGiay\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Admin\Downloads\QLCHBanGiay\QLCHBanGiay\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Admin\Downloads\QLCHBanGiay\QLCHBanGiay\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Admin\Downloads\QLCHBanGiay\QLCHBanGiay\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\Downloads\QLCHBanGiay\QLCHBanGiay\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Admin\Downloads\QLCHBanGiay\QLCHBanGiay\bin\Debug\System.Buffers.dll
+C:\Users\Admin\Downloads\QLCHBanGiay\QLCHBanGiay\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Admin\Downloads\QLCHBanGiay\QLCHBanGiay\bin\Debug\System.Memory.dll
+C:\Users\Admin\Downloads\QLCHBanGiay\QLCHBanGiay\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\Downloads\QLCHBanGiay\QLCHBanGiay\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Downloads\QLCHBanGiay\QLCHBanGiay\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\Admin\Downloads\QLCHBanGiay\QLCHBanGiay\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Downloads\QLCHBanGiay\QLCHBanGiay\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Admin\Downloads\QLCHBanGiay\QLCHBanGiay\bin\Debug\System.Text.Json.dll
+C:\Users\Admin\Downloads\QLCHBanGiay\QLCHBanGiay\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Downloads\QLCHBanGiay\QLCHBanGiay\bin\Debug\System.ValueTuple.dll
+C:\Users\Admin\Downloads\QLCHBanGiay\QLCHBanGiay\bin\Debug\EPPlus.xml
+C:\Users\Admin\Downloads\QLCHBanGiay\QLCHBanGiay\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Admin\Downloads\QLCHBanGiay\QLCHBanGiay\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Admin\Downloads\QLCHBanGiay\QLCHBanGiay\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Admin\Downloads\QLCHBanGiay\QLCHBanGiay\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\Admin\Downloads\QLCHBanGiay\QLCHBanGiay\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\Admin\Downloads\QLCHBanGiay\QLCHBanGiay\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Admin\Downloads\QLCHBanGiay\QLCHBanGiay\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\Admin\Downloads\QLCHBanGiay\QLCHBanGiay\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\Admin\Downloads\QLCHBanGiay\QLCHBanGiay\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Admin\Downloads\QLCHBanGiay\QLCHBanGiay\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Admin\Downloads\QLCHBanGiay\QLCHBanGiay\bin\Debug\System.Buffers.xml
+C:\Users\Admin\Downloads\QLCHBanGiay\QLCHBanGiay\bin\Debug\System.Memory.xml
+C:\Users\Admin\Downloads\QLCHBanGiay\QLCHBanGiay\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\Downloads\QLCHBanGiay\QLCHBanGiay\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Downloads\QLCHBanGiay\QLCHBanGiay\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\Admin\Downloads\QLCHBanGiay\QLCHBanGiay\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Admin\Downloads\QLCHBanGiay\QLCHBanGiay\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Admin\Downloads\QLCHBanGiay\QLCHBanGiay\bin\Debug\System.Text.Json.xml
+C:\Users\Admin\Downloads\QLCHBanGiay\QLCHBanGiay\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\Downloads\QLCHBanGiay\QLCHBanGiay\bin\Debug\System.ValueTuple.xml
+C:\Users\Admin\Downloads\QLCHBanGiay\QLCHBanGiay\obj\Debug\QLCHBanGiay.Kho.resources
+C:\Users\Admin\Downloads\QLCHBanGiay\QLCHBanGiay\obj\Debug\QLCHBanGiay.ThongKeSP.resources
+C:\Users\Admin\Downloads\QLCHBanGiay\QLCHBanGiay\obj\Debug\QLCHBanGiay.ThongKeSPBan.resources
+D:\QLCHBanGiay\QLCHBanGiay\bin\Debug\EPPlus.dll
+D:\QLCHBanGiay\QLCHBanGiay\bin\Debug\EPPlus.Interfaces.dll
+D:\QLCHBanGiay\QLCHBanGiay\bin\Debug\EPPlus.System.Drawing.dll
+D:\QLCHBanGiay\QLCHBanGiay\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\QLCHBanGiay\QLCHBanGiay\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\QLCHBanGiay\QLCHBanGiay\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\QLCHBanGiay\QLCHBanGiay\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\QLCHBanGiay\QLCHBanGiay\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+D:\QLCHBanGiay\QLCHBanGiay\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\QLCHBanGiay\QLCHBanGiay\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+D:\QLCHBanGiay\QLCHBanGiay\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\QLCHBanGiay\QLCHBanGiay\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\QLCHBanGiay\QLCHBanGiay\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\QLCHBanGiay\QLCHBanGiay\bin\Debug\System.Buffers.dll
+D:\QLCHBanGiay\QLCHBanGiay\bin\Debug\System.ComponentModel.Annotations.dll
+D:\QLCHBanGiay\QLCHBanGiay\bin\Debug\System.Memory.dll
+D:\QLCHBanGiay\QLCHBanGiay\bin\Debug\System.Numerics.Vectors.dll
+D:\QLCHBanGiay\QLCHBanGiay\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\QLCHBanGiay\QLCHBanGiay\bin\Debug\System.Security.Cryptography.Pkcs.dll
+D:\QLCHBanGiay\QLCHBanGiay\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\QLCHBanGiay\QLCHBanGiay\bin\Debug\System.Text.Encodings.Web.dll
+D:\QLCHBanGiay\QLCHBanGiay\bin\Debug\System.Text.Json.dll
+D:\QLCHBanGiay\QLCHBanGiay\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\QLCHBanGiay\QLCHBanGiay\bin\Debug\System.ValueTuple.dll
+D:\QLCHBanGiay\QLCHBanGiay\bin\Debug\EPPlus.xml
+D:\QLCHBanGiay\QLCHBanGiay\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\QLCHBanGiay\QLCHBanGiay\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\QLCHBanGiay\QLCHBanGiay\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\QLCHBanGiay\QLCHBanGiay\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+D:\QLCHBanGiay\QLCHBanGiay\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+D:\QLCHBanGiay\QLCHBanGiay\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\QLCHBanGiay\QLCHBanGiay\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+D:\QLCHBanGiay\QLCHBanGiay\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\QLCHBanGiay\QLCHBanGiay\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\QLCHBanGiay\QLCHBanGiay\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\QLCHBanGiay\QLCHBanGiay\bin\Debug\System.Buffers.xml
+D:\QLCHBanGiay\QLCHBanGiay\bin\Debug\System.Memory.xml
+D:\QLCHBanGiay\QLCHBanGiay\bin\Debug\System.Numerics.Vectors.xml
+D:\QLCHBanGiay\QLCHBanGiay\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\QLCHBanGiay\QLCHBanGiay\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\QLCHBanGiay\QLCHBanGiay\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\QLCHBanGiay\QLCHBanGiay\bin\Debug\System.Text.Encodings.Web.xml
+D:\QLCHBanGiay\QLCHBanGiay\bin\Debug\System.Text.Json.xml
+D:\QLCHBanGiay\QLCHBanGiay\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\QLCHBanGiay\QLCHBanGiay\bin\Debug\System.ValueTuple.xml
+D:\QLCHBanGiay\QLCHBanGiay\obj\Debug\QLCHBanGiay.Kho.resources
+D:\QLCHBanGiay\QLCHBanGiay\obj\Debug\QLCHBanGiay.ThongKeSP.resources
+D:\QLCHBanGiay\QLCHBanGiay\obj\Debug\QLCHBanGiay.ThongKeSPBan.resources
+D:\QLCHBanGiay\QLCHBanGiay\obj\Debug\QLCHBanGiay.csproj.CopyComplete
+C:\Users\NGUYEN TRONG HUU\Desktop\TaiLieu\DACS\NguyenTrongHuu_VoThanhHuu_DH21TIN03_DoAnCoSo1\NguyenTrongHuu_VoThanhHuu_DH21TIN03_DoAnCoSo1\QLCHBanGiay\obj\Debug\QLCHBanGiay.exe
+C:\Users\NGUYEN TRONG HUU\Desktop\TaiLieu\DACS\NguyenTrongHuu_VoThanhHuu_DH21TIN03_DoAnCoSo1\NguyenTrongHuu_VoThanhHuu_DH21TIN03_DoAnCoSo1\QLCHBanGiay\obj\Debug\QLCHBanGiay.pdb
+C:\Users\NGUYEN TRONG HUU\Desktop\TaiLieu\NguyenTrongHuu_VoThanhHuu_DH21TIN03_DoAnCoSo1\QLCHBanGiay\bin\Debug\QLCHBanGiay.exe.config
+C:\Users\NGUYEN TRONG HUU\Desktop\TaiLieu\NguyenTrongHuu_VoThanhHuu_DH21TIN03_DoAnCoSo1\QLCHBanGiay\bin\Debug\QLCHBanGiay.exe
+C:\Users\NGUYEN TRONG HUU\Desktop\TaiLieu\NguyenTrongHuu_VoThanhHuu_DH21TIN03_DoAnCoSo1\QLCHBanGiay\bin\Debug\QLCHBanGiay.pdb
+C:\Users\NGUYEN TRONG HUU\Desktop\TaiLieu\NguyenTrongHuu_VoThanhHuu_DH21TIN03_DoAnCoSo1\QLCHBanGiay\bin\Debug\EPPlus.dll
+C:\Users\NGUYEN TRONG HUU\Desktop\TaiLieu\NguyenTrongHuu_VoThanhHuu_DH21TIN03_DoAnCoSo1\QLCHBanGiay\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\NGUYEN TRONG HUU\Desktop\TaiLieu\NguyenTrongHuu_VoThanhHuu_DH21TIN03_DoAnCoSo1\QLCHBanGiay\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\NGUYEN TRONG HUU\Desktop\TaiLieu\NguyenTrongHuu_VoThanhHuu_DH21TIN03_DoAnCoSo1\QLCHBanGiay\bin\Debug\Guna.UI2.dll
+C:\Users\NGUYEN TRONG HUU\Desktop\TaiLieu\NguyenTrongHuu_VoThanhHuu_DH21TIN03_DoAnCoSo1\QLCHBanGiay\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\NGUYEN TRONG HUU\Desktop\TaiLieu\NguyenTrongHuu_VoThanhHuu_DH21TIN03_DoAnCoSo1\QLCHBanGiay\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\NGUYEN TRONG HUU\Desktop\TaiLieu\NguyenTrongHuu_VoThanhHuu_DH21TIN03_DoAnCoSo1\QLCHBanGiay\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\NGUYEN TRONG HUU\Desktop\TaiLieu\NguyenTrongHuu_VoThanhHuu_DH21TIN03_DoAnCoSo1\QLCHBanGiay\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\NGUYEN TRONG HUU\Desktop\TaiLieu\NguyenTrongHuu_VoThanhHuu_DH21TIN03_DoAnCoSo1\QLCHBanGiay\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\NGUYEN TRONG HUU\Desktop\TaiLieu\NguyenTrongHuu_VoThanhHuu_DH21TIN03_DoAnCoSo1\QLCHBanGiay\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\NGUYEN TRONG HUU\Desktop\TaiLieu\NguyenTrongHuu_VoThanhHuu_DH21TIN03_DoAnCoSo1\QLCHBanGiay\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\NGUYEN TRONG HUU\Desktop\TaiLieu\NguyenTrongHuu_VoThanhHuu_DH21TIN03_DoAnCoSo1\QLCHBanGiay\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\NGUYEN TRONG HUU\Desktop\TaiLieu\NguyenTrongHuu_VoThanhHuu_DH21TIN03_DoAnCoSo1\QLCHBanGiay\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\NGUYEN TRONG HUU\Desktop\TaiLieu\NguyenTrongHuu_VoThanhHuu_DH21TIN03_DoAnCoSo1\QLCHBanGiay\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\NGUYEN TRONG HUU\Desktop\TaiLieu\NguyenTrongHuu_VoThanhHuu_DH21TIN03_DoAnCoSo1\QLCHBanGiay\bin\Debug\System.Buffers.dll
+C:\Users\NGUYEN TRONG HUU\Desktop\TaiLieu\NguyenTrongHuu_VoThanhHuu_DH21TIN03_DoAnCoSo1\QLCHBanGiay\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\NGUYEN TRONG HUU\Desktop\TaiLieu\NguyenTrongHuu_VoThanhHuu_DH21TIN03_DoAnCoSo1\QLCHBanGiay\bin\Debug\System.Memory.dll
+C:\Users\NGUYEN TRONG HUU\Desktop\TaiLieu\NguyenTrongHuu_VoThanhHuu_DH21TIN03_DoAnCoSo1\QLCHBanGiay\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\NGUYEN TRONG HUU\Desktop\TaiLieu\NguyenTrongHuu_VoThanhHuu_DH21TIN03_DoAnCoSo1\QLCHBanGiay\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\NGUYEN TRONG HUU\Desktop\TaiLieu\NguyenTrongHuu_VoThanhHuu_DH21TIN03_DoAnCoSo1\QLCHBanGiay\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\NGUYEN TRONG HUU\Desktop\TaiLieu\NguyenTrongHuu_VoThanhHuu_DH21TIN03_DoAnCoSo1\QLCHBanGiay\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\NGUYEN TRONG HUU\Desktop\TaiLieu\NguyenTrongHuu_VoThanhHuu_DH21TIN03_DoAnCoSo1\QLCHBanGiay\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\NGUYEN TRONG HUU\Desktop\TaiLieu\NguyenTrongHuu_VoThanhHuu_DH21TIN03_DoAnCoSo1\QLCHBanGiay\bin\Debug\System.Text.Json.dll
+C:\Users\NGUYEN TRONG HUU\Desktop\TaiLieu\NguyenTrongHuu_VoThanhHuu_DH21TIN03_DoAnCoSo1\QLCHBanGiay\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\NGUYEN TRONG HUU\Desktop\TaiLieu\NguyenTrongHuu_VoThanhHuu_DH21TIN03_DoAnCoSo1\QLCHBanGiay\bin\Debug\System.ValueTuple.dll
+C:\Users\NGUYEN TRONG HUU\Desktop\TaiLieu\NguyenTrongHuu_VoThanhHuu_DH21TIN03_DoAnCoSo1\QLCHBanGiay\bin\Debug\EPPlus.xml
+C:\Users\NGUYEN TRONG HUU\Desktop\TaiLieu\NguyenTrongHuu_VoThanhHuu_DH21TIN03_DoAnCoSo1\QLCHBanGiay\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\NGUYEN TRONG HUU\Desktop\TaiLieu\NguyenTrongHuu_VoThanhHuu_DH21TIN03_DoAnCoSo1\QLCHBanGiay\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\NGUYEN TRONG HUU\Desktop\TaiLieu\NguyenTrongHuu_VoThanhHuu_DH21TIN03_DoAnCoSo1\QLCHBanGiay\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\NGUYEN TRONG HUU\Desktop\TaiLieu\NguyenTrongHuu_VoThanhHuu_DH21TIN03_DoAnCoSo1\QLCHBanGiay\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\NGUYEN TRONG HUU\Desktop\TaiLieu\NguyenTrongHuu_VoThanhHuu_DH21TIN03_DoAnCoSo1\QLCHBanGiay\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\NGUYEN TRONG HUU\Desktop\TaiLieu\NguyenTrongHuu_VoThanhHuu_DH21TIN03_DoAnCoSo1\QLCHBanGiay\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\NGUYEN TRONG HUU\Desktop\TaiLieu\NguyenTrongHuu_VoThanhHuu_DH21TIN03_DoAnCoSo1\QLCHBanGiay\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\NGUYEN TRONG HUU\Desktop\TaiLieu\NguyenTrongHuu_VoThanhHuu_DH21TIN03_DoAnCoSo1\QLCHBanGiay\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\NGUYEN TRONG HUU\Desktop\TaiLieu\NguyenTrongHuu_VoThanhHuu_DH21TIN03_DoAnCoSo1\QLCHBanGiay\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\NGUYEN TRONG HUU\Desktop\TaiLieu\NguyenTrongHuu_VoThanhHuu_DH21TIN03_DoAnCoSo1\QLCHBanGiay\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\NGUYEN TRONG HUU\Desktop\TaiLieu\NguyenTrongHuu_VoThanhHuu_DH21TIN03_DoAnCoSo1\QLCHBanGiay\bin\Debug\System.Buffers.xml
+C:\Users\NGUYEN TRONG HUU\Desktop\TaiLieu\NguyenTrongHuu_VoThanhHuu_DH21TIN03_DoAnCoSo1\QLCHBanGiay\bin\Debug\System.Memory.xml
+C:\Users\NGUYEN TRONG HUU\Desktop\TaiLieu\NguyenTrongHuu_VoThanhHuu_DH21TIN03_DoAnCoSo1\QLCHBanGiay\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\NGUYEN TRONG HUU\Desktop\TaiLieu\NguyenTrongHuu_VoThanhHuu_DH21TIN03_DoAnCoSo1\QLCHBanGiay\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\NGUYEN TRONG HUU\Desktop\TaiLieu\NguyenTrongHuu_VoThanhHuu_DH21TIN03_DoAnCoSo1\QLCHBanGiay\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\NGUYEN TRONG HUU\Desktop\TaiLieu\NguyenTrongHuu_VoThanhHuu_DH21TIN03_DoAnCoSo1\QLCHBanGiay\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\NGUYEN TRONG HUU\Desktop\TaiLieu\NguyenTrongHuu_VoThanhHuu_DH21TIN03_DoAnCoSo1\QLCHBanGiay\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\NGUYEN TRONG HUU\Desktop\TaiLieu\NguyenTrongHuu_VoThanhHuu_DH21TIN03_DoAnCoSo1\QLCHBanGiay\bin\Debug\System.Text.Json.xml
+C:\Users\NGUYEN TRONG HUU\Desktop\TaiLieu\NguyenTrongHuu_VoThanhHuu_DH21TIN03_DoAnCoSo1\QLCHBanGiay\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\NGUYEN TRONG HUU\Desktop\TaiLieu\NguyenTrongHuu_VoThanhHuu_DH21TIN03_DoAnCoSo1\QLCHBanGiay\bin\Debug\System.ValueTuple.xml
+C:\Users\NGUYEN TRONG HUU\Desktop\TaiLieu\NguyenTrongHuu_VoThanhHuu_DH21TIN03_DoAnCoSo1\QLCHBanGiay\obj\Debug\QLCHBanGiay.csproj.AssemblyReference.cache
+C:\Users\NGUYEN TRONG HUU\Desktop\TaiLieu\NguyenTrongHuu_VoThanhHuu_DH21TIN03_DoAnCoSo1\QLCHBanGiay\obj\Debug\QLCHBanGiay.DangNhap.resources
+C:\Users\NGUYEN TRONG HUU\Desktop\TaiLieu\NguyenTrongHuu_VoThanhHuu_DH21TIN03_DoAnCoSo1\QLCHBanGiay\obj\Debug\QLCHBanGiay.HoaDonBan.resources
+C:\Users\NGUYEN TRONG HUU\Desktop\TaiLieu\NguyenTrongHuu_VoThanhHuu_DH21TIN03_DoAnCoSo1\QLCHBanGiay\obj\Debug\QLCHBanGiay.HoaDonNhap.resources
+C:\Users\NGUYEN TRONG HUU\Desktop\TaiLieu\NguyenTrongHuu_VoThanhHuu_DH21TIN03_DoAnCoSo1\QLCHBanGiay\obj\Debug\QLCHBanGiay.KhachHang.resources
+C:\Users\NGUYEN TRONG HUU\Desktop\TaiLieu\NguyenTrongHuu_VoThanhHuu_DH21TIN03_DoAnCoSo1\QLCHBanGiay\obj\Debug\QLCHBanGiay.Kho.resources
+C:\Users\NGUYEN TRONG HUU\Desktop\TaiLieu\NguyenTrongHuu_VoThanhHuu_DH21TIN03_DoAnCoSo1\QLCHBanGiay\obj\Debug\QLCHBanGiay.LoaiGiay.resources
+C:\Users\NGUYEN TRONG HUU\Desktop\TaiLieu\NguyenTrongHuu_VoThanhHuu_DH21TIN03_DoAnCoSo1\QLCHBanGiay\obj\Debug\QLCHBanGiay.NhanVien.resources
+C:\Users\NGUYEN TRONG HUU\Desktop\TaiLieu\NguyenTrongHuu_VoThanhHuu_DH21TIN03_DoAnCoSo1\QLCHBanGiay\obj\Debug\QLCHBanGiay.NhaPhanPhoi.resources
+C:\Users\NGUYEN TRONG HUU\Desktop\TaiLieu\NguyenTrongHuu_VoThanhHuu_DH21TIN03_DoAnCoSo1\QLCHBanGiay\obj\Debug\QLCHBanGiay.Properties.Resources.resources
+C:\Users\NGUYEN TRONG HUU\Desktop\TaiLieu\NguyenTrongHuu_VoThanhHuu_DH21TIN03_DoAnCoSo1\QLCHBanGiay\obj\Debug\QLCHBanGiay.SanPham.resources
+C:\Users\NGUYEN TRONG HUU\Desktop\TaiLieu\NguyenTrongHuu_VoThanhHuu_DH21TIN03_DoAnCoSo1\QLCHBanGiay\obj\Debug\QLCHBanGiay.ThongKeSP.resources
+C:\Users\NGUYEN TRONG HUU\Desktop\TaiLieu\NguyenTrongHuu_VoThanhHuu_DH21TIN03_DoAnCoSo1\QLCHBanGiay\obj\Debug\QLCHBanGiay.ThongKeSPBan.resources
+C:\Users\NGUYEN TRONG HUU\Desktop\TaiLieu\NguyenTrongHuu_VoThanhHuu_DH21TIN03_DoAnCoSo1\QLCHBanGiay\obj\Debug\QLCHBanGiay.TrangChu.resources
+C:\Users\NGUYEN TRONG HUU\Desktop\TaiLieu\NguyenTrongHuu_VoThanhHuu_DH21TIN03_DoAnCoSo1\QLCHBanGiay\obj\Debug\QLCHBanGiay.csproj.GenerateResource.cache
+C:\Users\NGUYEN TRONG HUU\Desktop\TaiLieu\NguyenTrongHuu_VoThanhHuu_DH21TIN03_DoAnCoSo1\QLCHBanGiay\obj\Debug\QLCHBanGiay.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN TRONG HUU\Desktop\TaiLieu\NguyenTrongHuu_VoThanhHuu_DH21TIN03_DoAnCoSo1\QLCHBanGiay\obj\Debug\QLCHBanG.017234A0.Up2Date
+C:\Users\NGUYEN TRONG HUU\Desktop\TaiLieu\NguyenTrongHuu_VoThanhHuu_DH21TIN03_DoAnCoSo1\QLCHBanGiay\obj\Debug\QLCHBanGiay.exe
+C:\Users\NGUYEN TRONG HUU\Desktop\TaiLieu\NguyenTrongHuu_VoThanhHuu_DH21TIN03_DoAnCoSo1\QLCHBanGiay\obj\Debug\QLCHBanGiay.pdb
